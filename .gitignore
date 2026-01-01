@@ -1,0 +1,5 @@
+build/
+obj_dir/
+.vscode/
+.idea/
+.DS_Store
